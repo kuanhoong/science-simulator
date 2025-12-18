@@ -1,0 +1,17 @@
+{
+  "name": "science-sim-launcher",
+  "version": "1.0.0",
+  "description": "Orchestrator for science simulators",
+  "scripts": {
+    "install:all": "npm install && cd sim1 && npm install && cd ../sim2 && npm install && cd ../sim3 && npm install && cd ../launcher && npm install",
+    "install:sims": "cd sim1 && npm install && cd ../sim2 && npm install && cd ../sim3 && npm install",
+    "dev": "concurrently \"npm run dev:launcher\" \"npm run dev:sim1\" \"npm run dev:sim2\" \"npm run dev:sim3\"",
+    "dev:launcher": "cd launcher && npm run dev",
+    "dev:sim1": "cd sim1 && npm run dev",
+    "dev:sim2": "cd sim2 && npm run dev",
+    "dev:sim3": "cd sim3 && npm run dev"
+  },
+  "dependencies": {
+    "concurrently": "^9.1.2"
+  }
+}

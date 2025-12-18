@@ -1,0 +1,7 @@
+{
+  "name": "Solar Hand Control",
+  "description": "A 3D Solar System simulator controlled by hand gestures using your webcam. Open palm to zoom in, closed fist to zoom out.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

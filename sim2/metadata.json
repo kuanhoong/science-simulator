@@ -1,0 +1,7 @@
+{
+  "name": "Mic Particle Playground",
+  "description": "An interactive, real-time audio-reactive particle system controlled by your microphone's loudness and pitch. Built with Three.js and custom GLSL shaders.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
