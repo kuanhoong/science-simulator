@@ -49,5 +49,4 @@ The application uses the **MediaPipe Hands** model to track your movements in re
 - A stable internet connection to load MediaPipe models and planetary textures via CDN.
 - **HTTPS** is required for camera access in most browsers.
 
----
-*Created by a Senior Frontend Engineer as a showcase of Computer Vision and WebGL integration.*
+*You may test this app via [Google AI Studio:](https://ai.studio/apps/drive/1jZMdWivQxkfKvqPBrX8B8KK7Yc0yvkOb)*
