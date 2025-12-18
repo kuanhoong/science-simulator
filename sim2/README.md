@@ -49,3 +49,5 @@ An interactive, high-performance particle playground that reacts in real-time to
 ## 📝 License
 
 This project is designed as an experimental UI/UX and audio-visual playground. Feel free to explore the shaders in `render/Shaders.ts` to see how the wave mathematics are implemented!
+
+*You may test this app via [Google AI Studio:](https://ai.studio/apps/drive/1jccyd2_aAYgzrtGj8J1Ast54H0neeaA_)*
