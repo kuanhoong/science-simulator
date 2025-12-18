@@ -51,4 +51,4 @@ The project uses a standard ESM module structure with an import map in `index.ht
 -   `services/geminiService.ts`: Manages the prompt engineering and connection to the AI Advisor.
 
 ---
-*Built with ❤️ using React Three Fiber.*
+*You may test this app via [Google AI Studio:](https://ai.studio/apps/drive/1-EyKedkwGOwMSyVzSyOVRoiLK8C0eRrx?fullscreenApplet=true)*
